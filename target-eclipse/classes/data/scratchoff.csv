@@ -1,0 +1,77 @@
+gameNumber,gameName,Price,Size,Active,BoxNo
+1348,"7-11-21",1,150,N,0
+1447,"Money Craze",1,150,N,0
+1521,"Lucky 7's",1,150,Y,32
+1566,"What's Your Number?",1,150,N,0
+1572,"Crazy Cash",1,150,N,0
+1576,"5X The Cash",1,150,Y,30
+1581,"Two Can Doubler",1,150,N,0
+1586,"Lucky Symbols",1,150,N,0
+1594,"Match 3 Doubler",1,150,N,0
+1624,"Scoop The Cash",1,150,N,0
+1627,"Weekly Half Grand",1,150,Y,31
+1639,"5X The Cash",1,150,N,0
+1509,"Lucky Numbers",2,125,Y,24
+1522,"Sizzlin' Cash",2,125,N,0
+1526,"Wild Winnings",2,125,N,0
+1542,"Break the Bank",2,125,Y,27
+1543,"Weekly Grand",2,125,N,0
+1555,"Weekly Grand",2,125,Y,28
+1565,"Veterans Cash",2,125,N,0
+1574,"Break the Bank Limited Edition",2,125,N,0
+1578,"10X The Cash",2,125,N,0
+1587,"Chili Pepper Tripler",2,125,Y,29
+1596,"Triple Winning 777's",2,125,Y,26
+1605,"Cherry Tripler",2,125,N,0
+1614,"On The Money",2,125,N,0
+1628,"Weekly Grand",2,125,N,0
+1640,"10 X The Cash",2,125,Y,25
+1451,"Bonus Word Crossword",3,115,Y,21
+1507,"Twisted Bingo",3,115,Y,22
+1524,"Loteria",3,75,Y,19
+1530,"Black Cherry Tripler",3,115,Y,23
+1537,"Bonus Cashword",3,115,N,0
+1633,"Twisted Bingo",3,115,N,0
+1634,"Bonus Cashword",3,115,Y,20
+1635,"Loteria",3,115,N,0
+1454,"Bonus Break the Bank",5,75,N,0
+1514,"Red Hot and Wild 7's",5,75,Y,12
+1527,"$100,000 Cashword-O-Rama",5,75,Y,17
+1528,"Dallas Cowboys",5,75,N,0
+1529,"Houston Texans",5,75,N,0
+1546,"Bingo Multi-Prize",5,75,Y,11
+1553,"Cash Extravaganza",5,75,Y,13
+1556,"Bonus Weekly Grand",5,75,Y,15
+1568,"Cash Machine",5,75,N,0
+1570,"Merry Money",5,75,N,0
+1573,"Red Diamond 7's",5,75,N,0
+1575,"Cash Club",5,75,N,0
+1577,"21",5,75,N,0
+1579,"Hearts On Firev",5,75,N,0
+1582,"20X The Cash",5,75,Y,9
+1585,"Cash Multiplier",5,75,Y,14
+1588,"7",5,75,Y,10
+1599,"Golden Key",5,75,N,0
+1604,"10X Super Fast Cash",5,75,N,0
+1623,"Solid Gold",5,75,Y,16
+1629,"Bonus Weekly Grand",5,75,N,0
+1632,"Bonus Break The Bank",5,75,N,0
+1636,"Texas Dream Home",5,75,Y,18
+1641,"20 X The Cash",5,75,N,0
+1490,"Jumbo Cash Doubler",10,50,Y,6
+1534,"Big Winning Numbers",10,50,N,0
+1536,"10X Mega Money",10,50,N,0
+1547,"$250,000 Bingo",10,50,N,0
+1552,"Platinum Payout",10,50,N,0
+1557,"Super Weekly Grand",10,50,Y,7
+1567,"Ultimate Crossword",10,50,Y,8
+1580,"50X The Cash",10,50,Y,5
+1354,"$500 Million Frenzy",20,25,N,0
+1387,"$500,000,000 Extreme Cash Blast",20,25,N,0
+1520,"$1,000,000 Jackpot",20,25,Y,3
+1531,"20X Ca$h",20,25,N,0
+1583,"100X The Cash",20,25,Y,4
+1621,"Instant Millions",20,25,N,0
+1277,"Casino Action",50,20,N,0
+1394,"$7,500,000 Fortune",50,20,Y,2
+1492,"Millionaires Club",50,20,Y,1
